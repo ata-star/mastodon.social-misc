@@ -5,19 +5,19 @@ This is a list of servers that mastodon.social inhibits federation with in vario
 
 |Domain|Severity|Rationale|Notes|
 |------|---------|--------|-----|
-|pawoo.net         |Media block|Allows illegal content|
-|freezepeach.xyz   |Sandbox    |Harassment|
-|shitposter.club   |Sandbox    |Harassment|
-|noagendasocial.com|Sandbox    |Harassment|
-|toot.love         |Sandbox    |Harassment|
-|anitwitter.moe    |Sandbox    |Harassment|
-|lainternet.online |Sandbox    |Allows untagged gore|
-|bofa.lol          |Sandbox    |Harassment|
-|sealion.club      |Suspension |Harassment|
-|npf.mlpol.net     |Suspension |"Nazi Pony Fucker"|
-|pr*******rls.biz  |Suspension |Specifically for illegal content|
-|b***ag.net        |Suspension |Specifically for illegal content|
-|pl.smuglo.li      |Suspension |Harassment and illegal content|
+|`pawoo.net`         |Media block|Allows illegal content|
+|`freezepeach.xyz`   |Sandbox    |Harassment|
+|`shitposter.club`   |Sandbox    |Harassment|
+|`noagendasocial.com`|Sandbox    |Harassment|
+|`toot.love`         |Sandbox    |Harassment|
+|`anitwitter.moe`    |Sandbox    |Harassment|
+|`lainternet.online` |Sandbox    |Allows untagged gore|
+|`bofa.lol`          |Sandbox    |Harassment|
+|`sealion.club`      |Suspension |Harassment|
+|`npf.mlpol.net`     |Suspension |"Nazi Pony Fucker"|
+|`pr*******rls.biz`  |Suspension |Specifically for illegal content|
+|`b***ag.net`        |Suspension |Specifically for illegal content|
+|`pl.smuglo.li`      |Suspension |Harassment and illegal content|
 
 ### Severity legend
 
