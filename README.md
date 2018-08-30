@@ -7,7 +7,6 @@ This is a list of servers that mastodon.social inhibits federation with in vario
 |------|---------|--------|-----|
 |pawoo.net         |Media block|Allows illegal content|
 |freezepeach.xyz   |Sandbox    |Harassment|
-|gs.kawa-kun.com   |Sandbox    |Harassment|
 |shitposter.club   |Sandbox    |Harassment|
 |noagendasocial.com|Sandbox    |Harassment|
 |toot.love         |Sandbox    |Harassment|
