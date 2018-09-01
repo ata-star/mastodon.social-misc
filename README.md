@@ -14,10 +14,12 @@ This is a list of servers that mastodon.social inhibits federation with in vario
 |`lainternet.online` |Sandbox    |Allows untagged gore|
 |`bofa.lol`          |Sandbox    |Harassment|
 |`sealion.club`      |Suspension |Harassment|
+|`waifu.social`      |Suspension |Harassment|
 |`npf.mlpol.net`     |Suspension |"Nazi Pony Fucker"|
 |`pr*******rls.biz`  |Suspension |Specifically for illegal content|
 |`b***ag.net`        |Suspension |Specifically for illegal content|
 |`pl.smuglo.li`      |Suspension |Harassment and illegal content|
+|`mel******a.tk`     |Suspension |Specifically for illegal content|
 
 ### Severity legend
 
