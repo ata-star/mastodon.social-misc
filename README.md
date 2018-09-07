@@ -12,7 +12,6 @@ This is a list of servers that mastodon.social inhibits federation with in vario
 |`toot.love`         |Sandbox    |Harassment|
 |`anitwitter.moe`    |Sandbox    |Harassment|
 |`lainternet.online` |Sandbox    |Allows untagged gore|
-|`bofa.lol`          |Sandbox    |Harassment|
 |`sealion.club`      |Suspension |Harassment|
 |`waifu.social`      |Suspension |Harassment|
 |`npf.mlpol.net`     |Suspension |"Nazi Pony Fucker"|
