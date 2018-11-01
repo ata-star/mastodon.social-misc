@@ -19,6 +19,7 @@ This is a list of servers that mastodon.social inhibits federation with in vario
 |`b***ag.net`        |Suspension |Specifically for illegal content|
 |`pl.smuglo.li`      |Suspension |Harassment and illegal content|
 |`mel******a.tk`     |Suspension |Specifically for illegal content|
+|`freespeechextremist.com `|Suspension|Nazis|
 
 ### Severity legend
 
