@@ -12,6 +12,7 @@ This is a list of servers that mastodon.social inhibits federation with in vario
 |`toot.love`         |Sandbox    |Harassment|
 |`anitwitter.moe`    |Sandbox    |Harassment|
 |`lainternet.online` |Sandbox    |Allows untagged gore|
+|`bsd.moe`           |Sandbox    |Harassment|
 |`sealion.club`      |Suspension |Harassment|
 |`waifu.social`      |Suspension |Harassment|
 |`npf.mlpol.net`     |Suspension |"Nazi Pony Fucker"|
@@ -19,7 +20,12 @@ This is a list of servers that mastodon.social inhibits federation with in vario
 |`b***ag.net`        |Suspension |Specifically for illegal content|
 |`pl.smuglo.li`      |Suspension |Harassment and illegal content|
 |`mel******a.tk`     |Suspension |Specifically for illegal content|
-|`freespeechextremist.com `|Suspension|Nazis|
+|`artritelacy.jp`    |Suspension |Harassment|
+|`kneegrows.top`     |Suspension |Harassment|
+|`greenlifeplus.net` |Suspension |Specifically for spam|
+|`feminism.lgbt`     |Suspension |Harassment|
+|`freespeechextremist.com`|Suspension|Nazis|
+|`wagesofsinisdeath.com`  |Suspension|Harassment|
 
 ### Severity legend
 
