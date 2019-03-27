@@ -6,6 +6,7 @@ This is a list of servers that mastodon.social inhibits federation with in vario
 |Domain|Severity|Rationale|Notes|
 |------|---------|--------|-----|
 |`pawoo.net`         |Media block|Allows illegal content|
+|`humblr.social`     |Sandbox    |Too much porn spam|
 |`freezepeach.xyz`   |Sandbox    |Harassment|
 |`shitposter.club`   |Sandbox    |Harassment|
 |`noagendasocial.com`|Sandbox    |Harassment|
@@ -13,6 +14,7 @@ This is a list of servers that mastodon.social inhibits federation with in vario
 |`anitwitter.moe`    |Sandbox    |Harassment|
 |`lainternet.online` |Sandbox    |Allows untagged gore|
 |`bsd.moe`           |Sandbox    |Harassment|
+|`twitter.activitpub.actor`|Suspension|Twitter mirror service, overshadowing real Mastodon users in search results|
 |`sealion.club`      |Suspension |Harassment|
 |`waifu.social`      |Suspension |Harassment|
 |`npf.mlpol.net`     |Suspension |"Nazi Pony Fucker"|
@@ -26,6 +28,8 @@ This is a list of servers that mastodon.social inhibits federation with in vario
 |`feminism.lgbt`     |Suspension |Harassment|
 |`freespeechextremist.com`|Suspension|Nazis|
 |`wagesofsinisdeath.com`  |Suspension|Harassment|
+|`cnet.site`         |Suspension |Harassment|
+|`rapefeminists.network`|Suspension|Harassment|
 
 ### Severity legend
 
