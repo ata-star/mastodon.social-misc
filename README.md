@@ -14,7 +14,7 @@ This is a list of servers that mastodon.social inhibits federation with in vario
 |`anitwitter.moe`    |Sandbox    |Harassment|
 |`lainternet.online` |Sandbox    |Allows untagged gore|
 |`bsd.moe`           |Sandbox    |Harassment|
-|`twitter.activiytpub.actor`|Suspension|Twitter mirror service, overshadowing real Mastodon users in search results|
+|`twitter.activitypub.actor`|Suspension|Twitter mirror service, overshadowing real Mastodon users in search results|
 |`birdsite.link`|Suspension|Twitter mirror service, overshadowing real Mastodon users in search results|
 |`mirrored.social`|Suspension|Twitter mirror service, overshadowing real Mastodon users in search results|
 |`sealion.club`      |Suspension |Harassment|
