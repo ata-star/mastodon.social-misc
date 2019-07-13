@@ -3,8 +3,8 @@
 
 This is a list of servers that mastodon.social inhibits federation with in various ways. There are different levels of inhibition based on severity.
 
-|Domain|Severity|Rationale|Notes|
-|------|---------|--------|-----|
+|Domain|Severity|Rationale|
+|------|---------|--------|
 |`pawoo.net`         |Media block|Allows illegal content|
 |`humblr.social`     |Sandbox    |Too much porn spam|
 |`freezepeach.xyz`   |Sandbox    |Harassment|
