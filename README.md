@@ -32,6 +32,15 @@ This is a list of servers that mastodon.social inhibits federation with in vario
 |`wagesofsinisdeath.com`  |Suspension|Harassment|
 |`cnet.site`         |Suspension |Harassment|
 |`rapefeminists.network`|Suspension|Harassment|
+|`kiwifarms.cc`|Suspension|Harassment|
+|`kiwifarms.net`|Suspension|Harassment|
+|`gab.com`|Suspension|Harassment|
+|`gab.ai`|Suspension|Harassment|
+|`exited.eu`|Suspension|Harassment|
+|`pieville.net`|Suspension|Harassment|
+|`catgirl.life`|Suspension|Harassment|
+|`waifuappreciation.club`|Suspension|Harassment|
+|`lets.saynoto.lgbt`|Suspension|Harassment|
 
 ### Severity legend
 
